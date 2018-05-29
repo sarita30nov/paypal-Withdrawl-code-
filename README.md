@@ -1,4 +1,4 @@
-@Author: Manjeet Kumar Patel <manjeetkumar15@gmail.com
+@Author: Manjeet Kumar Patel <manjeetkumar15@gmail.com>
 
 @Author Description:  Expert in LAMP AND MEAN Stack Technology with various framework
 
