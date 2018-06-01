@@ -1,0 +1,16 @@
+Fail Response 
+
+{"error":"invalid_token","error_description":"Access Token not found in cache"}
+
+
+Sucess Response:
+{
+  "batch_header": {
+    "sender_batch_header": {
+      "sender_batch_id": "2014021801",
+      "email_subject": "You have a payout!"
+    },
+    "payout_batch_id": "12345678",
+    "batch_status": "PENDING"
+  }
+}
